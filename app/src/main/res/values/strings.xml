@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrashM</string>
+    <string name="buscar">Buscar</string>
+    <string name="conectar">Conectar</string>
+    <string name="controles_sistema">Controles del Sistema</string>
+    <string name="desconectar">Desconectar</string>
+    <string name="encender_led">Encender LED</string>
+    <string name="apagar_led">Apagar LED</string>
+    <string name="nivel_basura">Estado del sensor</string>
+    <string name="conectado">Conectado</string>
+</resources>

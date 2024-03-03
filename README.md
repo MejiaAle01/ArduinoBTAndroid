@@ -21,13 +21,12 @@ Una aplicación que permite conectarse con Arduino por medio del sensor de Bluet
 
 - Abre **Android Studio** y selecciona el proyecto.
 
-- Ejecuta **Run** de Android Studio.
-## Tech Stack
+## Stack utilizado
 
 **Aplicación:** Android, Material UI, Java.
 
 
-## Lessons Learned
+## Lecciones aprendidas
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
